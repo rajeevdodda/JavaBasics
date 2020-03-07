@@ -1,5 +1,5 @@
-import java.math.BigDecimal;
-import java.math.BigInteger;
+package chapter1;
+
 // java.lag is by default imported
 
 public class EverythingIsAnObject {
